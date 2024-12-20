@@ -3,7 +3,7 @@
     "short_name": "PWA test",
     "start_url": "/",
     "display_override": ["window-control-overlay", "minimal-ui"],
-    "display": "standalone",
+    "display": "fullscreen",
     "icons": [
           {
             "src": "/icons/icon-192x192.png",
